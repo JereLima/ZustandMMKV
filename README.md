@@ -64,4 +64,4 @@ O aplicativo será compilado e instalado no emulador ou dispositivo conectado.
 
 - [React Native](https://reactnative.dev/) - Framework de desenvolvimento de aplicativos móveis multiplataforma.
 - [Zustand](https://github.com/pmndrs/zustand) - Biblioteca de gerenciamento de estado para React.
-- [MMKV](https://github.com/ammarahm-ed/react-native-mmkv) - Biblioteca para armazenamento de chave-valor eficiente em React Native.
+- [MMKV](https://github.com/mrousavy/react-native-mmkv) - Biblioteca para armazenamento de chave-valor eficiente em React Native.
